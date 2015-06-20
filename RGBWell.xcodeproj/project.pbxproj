@@ -11,6 +11,7 @@
 		568B76571B35F0FD008B3B62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 568B76561B35F0FD008B3B62 /* Assets.xcassets */; };
 		568B765A1B35F0FD008B3B62 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 568B76581B35F0FD008B3B62 /* MainMenu.xib */; };
 		568B76621B35F18D008B3B62 /* MainWindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568B76611B35F18D008B3B62 /* MainWindowController.swift */; };
+		568B76641B35F1ED008B3B62 /* MainWindowController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 568B76631B35F1ED008B3B62 /* MainWindowController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		568B76591B35F0FD008B3B62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		568B765B1B35F0FD008B3B62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		568B76611B35F18D008B3B62 /* MainWindowController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainWindowController.swift; sourceTree = "<group>"; };
+		568B76631B35F1ED008B3B62 /* MainWindowController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainWindowController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				568B76581B35F0FD008B3B62 /* MainMenu.xib */,
 				568B765B1B35F0FD008B3B62 /* Info.plist */,
 				568B76611B35F18D008B3B62 /* MainWindowController.swift */,
+				568B76631B35F1ED008B3B62 /* MainWindowController.xib */,
 			);
 			path = RGBWell;
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				568B76571B35F0FD008B3B62 /* Assets.xcassets in Resources */,
+				568B76641B35F1ED008B3B62 /* MainWindowController.xib in Resources */,
 				568B765A1B35F0FD008B3B62 /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
